@@ -2,7 +2,7 @@
 # `SW for opulo z-axis with a center HOME (G28) function`
 # `the combined W and Z axis will always be in middle position after homing`
 # `in addition a bltouch can be controlled and a touch event will stop the move`
-# `after that, the Z or W position can be read by gcode comand`
+# `after that, the Z or W position can be read by gcode command`
 
 
 ## This is a Rust repository
